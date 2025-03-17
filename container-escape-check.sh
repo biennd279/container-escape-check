@@ -403,7 +403,7 @@ CheckCVE_2022_0492(){
 main()  
 {  
    # 0. Check the current environment
-    CheckTheCurrentEnvironment
+    # CheckTheCurrentEnvironment
 
     # 1. Check Privileged Mode
     CheckPrivilegedMode
